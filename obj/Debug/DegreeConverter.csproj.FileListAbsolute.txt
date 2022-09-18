@@ -1,0 +1,15 @@
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\bin\Debug\DegreeConverter.exe.config
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\bin\Debug\DegreeConverter.exe
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\bin\Debug\DegreeConverter.pdb
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.csproj.AssemblyReference.cache
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.csproj.SuggestedBindingRedirects.cache
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.Form1.resources
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.Properties.Resources.resources
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.csproj.GenerateResource.cache
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.csproj.CoreCompileInputs.cache
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.exe
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.pdb
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\bin\Debug\DegreeConverter.exe.manifest
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\bin\Debug\DegreeConverter.application
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.exe.manifest
+D:\Omar Ahmed - MCSD24\Projects For Publishing in github\Degree Converter\DegreeConverter\obj\Debug\DegreeConverter.application
